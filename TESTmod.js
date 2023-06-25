@@ -1,9 +1,9 @@
 // Adding elements:
-elements.TEST1 = {
-    color: "#133738",
+elements.Cryotheum = {
+    color: "#14ebff",
     behavior: behaviors.LIQUID,
     category: "liquids",
-    viscosity: 100000,
+    viscosity: 0,
     state: "liquid",
-    density: 720,
+    density: 1200,
 };
